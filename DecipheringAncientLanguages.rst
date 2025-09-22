@@ -89,7 +89,7 @@ Ugaritic
 Ugaritic: Virolleaud - Fundational observations
 ===============================================
 
-[Link to a map of Ugarit](./Ugarit.png)
+`Link to a map of Ugarit <./Ugarit.png>`__
 
 1. total number of signs is relatively small (total about 30)
 
