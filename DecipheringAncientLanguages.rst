@@ -89,6 +89,8 @@ Ugaritic
 Ugaritic: Virolleaud - Fundational observations
 ===============================================
 
+[Link to a map of Ugarit](./Ugarit.png)
+
 1. total number of signs is relatively small (total about 30)
 
 2. words rarely comprised more than four signs separated by a wedge
