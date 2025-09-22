@@ -45,7 +45,7 @@ Behistun Inscription
 Behistun Inscription: The Languages
 ===================================
 
-1. Old Persion 
+1. Old Persian 
 
 2. Elamite 
 
